@@ -162,7 +162,7 @@ npm run dev
 
 ## 👤 作者
 
-**Shoma（吉田 翔馬）**
+**Shoma（吉田 章馬）**
 データエンジニア・コンサルタント
 
 - 📧 Email: [shoma.yoshida0011@gmail.com](mailto:shoma.yoshida0011@gmail.com)
